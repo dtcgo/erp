@@ -1,0 +1,8 @@
+public class CShoppingCart
+{
+	public void add( CProduct p)
+	{
+是在哈囉
+	}
+	 
+}
